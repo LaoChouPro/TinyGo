@@ -1,0 +1,16 @@
+{
+  "board_size": 19,
+  "data_paths": null,
+  "output_dir": "output/debug",
+  "batch_size": 8,
+  "num_workers": 0,
+  "epochs": 1,
+  "steps_per_epoch": 20,
+  "eval_steps": 5,
+  "learning_rate": 0.05,
+  "momentum": 0.9,
+  "weight_decay": 0.0001,
+  "seed": 42,
+  "device": "cpu",
+  "save_every": 1
+}

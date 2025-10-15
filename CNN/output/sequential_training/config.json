@@ -1,0 +1,16 @@
+{
+  "board_size": 19,
+  "data_paths": null,
+  "output_dir": "output/sequential_training",
+  "batch_size": 32,
+  "num_workers": 4,
+  "epochs": 14,
+  "steps_per_epoch": 10000,
+  "eval_steps": 800,
+  "learning_rate": 0.05,
+  "momentum": 0.9,
+  "weight_decay": 0.0001,
+  "seed": 42,
+  "device": "cpu",
+  "save_every": 1
+}
